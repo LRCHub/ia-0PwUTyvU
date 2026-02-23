@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "薄れる",
+  "base_artist": "rinri",
+  "createdAt": "2026-02-23T23:23:01.443437Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "薄れる",
+      "artist": "rinri",
+      "has_synced": false,
+      "path": "select/pl_01_薄れる_rinri.txt"
+    }
+  ]
+}
